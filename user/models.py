@@ -3,7 +3,6 @@ from django.contrib.auth.models import (
     BaseUserManager,
     UserManager as DjangoUserManager
 )
-
 from django.db import models
 from django.utils.translation import gettext as _
 
